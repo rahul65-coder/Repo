@@ -1,5 +1,5 @@
 # wrangler.toml - OTT Stream Guide Bot
-name = "ott-stream-guide-bot"
+name = "epo"
 main = "index.js"
 compatibility_date = "2024-01-01"
 compatibility_flags = ["nodejs_compat"]
